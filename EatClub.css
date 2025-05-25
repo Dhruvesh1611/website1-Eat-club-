@@ -13,11 +13,7 @@ font-family: Arial, Helvetica, sans-serif;
     display: flex;
     height: 80px;
     width: 100%;
-<<<<<<< HEAD
-  
-=======
-    z-index: 1000;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
+    z-index: 1000; 
 }
 .head_items{
     width: 10%;
@@ -96,19 +92,11 @@ p1{
     width: 100%;
     height: 370px;
     background-color: #262E3A;
-<<<<<<< HEAD
    
     
 }
 .photo1{
     background-image: url("1.png"); 
-=======
-    position: relative;
-    z-index: 1;
-}
-.photo1{
-    background-image: url("photo1.png"); 
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
     opacity: 50%;
      background-size: cover;
      background-repeat: no-repeat;  
@@ -120,19 +108,10 @@ p1{
     height:250px;
     margin-right: 50px;
     align-items: center;
-<<<<<<< HEAD
 }
 .photo2{
     
     background-image: url("2.png"); 
-=======
-    position: relative;
-    z-index: 1;
-}
-.photo2{
-    
-    background-image: url("photo2.png"); 
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
      background-size: cover;
      background-repeat: no-repeat;  
      background-position: center; 
@@ -142,17 +121,9 @@ p1{
         background-color: #af4c4c;
         height:280px;
         margin-right: 35px;
-<<<<<<< HEAD
 }
 .photo3{
     background-image: url("3.png"); 
-=======
-        position: relative;
-        z-index: 1;
-}
-.photo3{
-    background-image: url("photo3.png"); 
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
      background-size: cover;
      background-repeat: no-repeat;  
      background-position: center; 
@@ -162,7 +133,6 @@ p1{
     background-color: #af4c4c;
     height:280px;
     margin-right: 35px;
-<<<<<<< HEAD
 }
 .photo4{
     opacity: 50%;
@@ -172,30 +142,10 @@ p1{
     background-image: url("4.png"); 
      background-size: cover;
      background-repeat: no-repeat;  
-=======
-    position: relative;
-    z-index: 1;
-}
-.photo4{
-    opacity: 50%;
-    /* border: 1px solid wheat; */
-    display: flex;
-    border-radius: 10px 0px 0px 10px;
-    width: 250px;
-    background-image: url("photo4.png"); 
-     background-size: cover;
-     background-repeat: no-repeat; 
-     background-color: #af4c4c; 
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
      background-position: center; 
     height:250px;
     margin-left: 15px;
     align-items: center;
-<<<<<<< HEAD
-=======
-    position: relative;
-    z-index: 1;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
 .sym1{
     
@@ -209,12 +159,7 @@ p1{
     background-color: #fff;
     align-items: center;
     justify-content: center;
-<<<<<<< HEAD
     
-=======
-    position: absolute;
-    z-index: 2;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
     
 }
 .sym2{
@@ -229,11 +174,6 @@ p1{
     align-items: center;
     justify-content: center;
     margin-left: 150px;
-<<<<<<< HEAD
-=======
-    position: absolute;
-    z-index: 2;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
 .heading{
     height: 200px;
@@ -254,14 +194,8 @@ p3{
 }
 .boxes{
     display: flex;
-<<<<<<< HEAD
     
-=======
     justify-content: center;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
-    margin-left: 50px;
-    margin-right: 50px;
-    
     height: 1130px;
 }
 .box{
@@ -364,29 +298,13 @@ p4{
     margin-left: 40px;
 }
 .phone{    
-<<<<<<< HEAD
     margin-right: 150px;
     margin-top: 6px;
-    
-=======
-    margin-right: 50px;
-    margin-top: 10px;
-    padding-top: 20px;
-    /* border: 1px solid black; */
-    margin-bottom: -66px;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
+    margin-bottom: -6.5px;
     
 }
 .lastbox{
     display: flex;
-<<<<<<< HEAD
-=======
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-    margin: 50px auto;
-    max-width: 1200px;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
 p5{
     color:#fff;
@@ -404,7 +322,6 @@ p6{
 
 }
 .footer{
-<<<<<<< HEAD
     height: 490px;
     background-color: #151720;
 }
@@ -412,15 +329,6 @@ p6{
     width: 302p x;
     height: 320px;
     margin-left: 70px;
-=======
-    width: 100%;
-    background-color: #151720;
-    padding: 50px 0;
-}
-.details2{
-    width: 170px;
-    margin: 0 20px;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
 p7{
     font-size:15px;
@@ -433,7 +341,6 @@ P8{
 }
 .details3{
     width: 170px;
-<<<<<<< HEAD
     height: 320px;
     margin-left: 200px;
 
@@ -470,59 +377,14 @@ P8{
     margin-top: 60px;
     align-items: center;
     justify-content:center
-=======
-    margin: 0 20px;
-}
-.details4{
-    width: 170px;
-    margin: 0 20px;
-}
-.footer1{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-.footer2{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 30px auto 0;
-    padding: 20px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-}
-.details5{
-    color: #fff;
-    font-size: 14px;
-}
-.details6{
-    display: flex;
-    gap: 15px;
-    align-items: center;
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
 .logos{
     display: flex;
     align-items: center;
-<<<<<<< HEAD
     justify-content:center;
     margin-left: 10px;
     background-color: white;
     height: 20px;
     width: 20px;
     border-radius: 100%;
-=======
-    justify-content: center;
-    background-color: white;
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    transition: transform 0.3s ease;
-}
-.logos:hover {
-    transform: scale(1.1);
->>>>>>> Initial commit: EatClub website with responsive design and fixed layout issues
 }
